@@ -16,7 +16,7 @@ a{
 .container{
 	width: 1140px;
 	margin: auto;
-	
+	margin-top: 50px;
 }
 .navbar{
 	display: flex;
@@ -96,6 +96,8 @@ a{
 }
 /*banner end*/
 
+/*about start*/
+/*about end*/
 
 
 /*project start*/
@@ -346,7 +348,7 @@ img{
 }
 .container{
 	width: 1140px;
-	margin:  auto;
+	margin: auto;
 }
 h1{
 	font-size: 45px;
@@ -438,14 +440,12 @@ h1{
 }
 /*address end*/
 
-/
+
 
 /*footer start*/
 .footer{
-	width: 100%;
-	padding-top: 100px;
+	margin-top: 50px;
 	background-color: white;
-	
 	
 }
 .footer-row{
